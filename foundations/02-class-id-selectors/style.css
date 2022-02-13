@@ -1,0 +1,16 @@
+.pink-bg{
+    background-color: #ffc0cb;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+#two{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.three{
+    font-size: 24px;
+}
+#four{
+    background-color: hsl(120, 100%, 71%);
+    font-size: 24px;
+    font-weight: bold;
+}
